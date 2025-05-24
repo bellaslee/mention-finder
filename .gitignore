@@ -35,6 +35,8 @@ MANIFEST
 # Installer logs
 pip-log.txt
 pip-delete-this-directory.txt
+Pipfile
+Pipfile.lock
 
 # Unit test / coverage reports
 htmlcov/
@@ -67,6 +69,7 @@ instance/
 
 # Scrapy stuff:
 .scrapy
+scrapy.cfg
 
 # Sphinx documentation
 docs/_build/
